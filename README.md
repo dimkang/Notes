@@ -20,3 +20,5 @@ http://link.springer.com/chapter/10.1007%2F978-3-642-36337-5_80
 http://www.edbchinese.hk/lexlist_ch/
 
 http://ebcl.eu.com/wp-content/uploads/2012/10/D2-S2-Character-Lexical-Items-Methodology-AllanicShu.pdf
+
+http://www.edbchinese.hk/lexlist_en/fw_foreword_e.htm
