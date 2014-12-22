@@ -14,3 +14,6 @@ http://blog.sciencenet.cn/home.php?mod=space&uid=94143&do=blog&id=463961
 http://www.colips.org/journal/volume21/21.4.2-Research%20on%20Chinese%20Function%20Word%20Usage%20Knowledge%20Base-ZangHongYing.pdf
 
 http://en.wikipedia.org/wiki/Classical_Chinese_lexicon
+
+
+http://link.springer.com/chapter/10.1007%2F978-3-642-36337-5_80
