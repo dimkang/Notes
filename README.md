@@ -15,5 +15,6 @@ http://www.colips.org/journal/volume21/21.4.2-Research%20on%20Chinese%20Function
 
 http://en.wikipedia.org/wiki/Classical_Chinese_lexicon
 
-
 http://link.springer.com/chapter/10.1007%2F978-3-642-36337-5_80
+
+http://www.edbchinese.hk/lexlist_ch/
